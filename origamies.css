@@ -1,0 +1,45 @@
+.main_head {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 55px;
+    border-bottom: solid;
+    border-top: solid;
+    background-image: url('https://www.bbvaopenmind.com/wp-content/uploads/2018/02/origami-portada.jpg');
+}
+
+.a_Boat {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.paper_plane {
+    padding-top: 25px;
+    text-align: center;
+  
+}
+
+.main_head2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 55px;
+    border-bottom: solid;
+    border-top: solid;
+    background-image: url('https://i.ytimg.com/vi/cbrfR7_9PHw/maxresdefault.jpg');
+}
+
+.about_origami {
+    text-align: center;
+    padding-top: 8px;
+    font-size: 25px;
+}
+
+.dog {
+    text-align: center;
+    padding-top: 5px;
+}
